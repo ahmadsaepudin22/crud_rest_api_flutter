@@ -1,4 +1,5 @@
-# uts_pm2_ahmad
+# UAS - Ahmad Saepudin - 21552011226
+# Pemograman Mobile 2 
 
 A new Flutter project.
 
